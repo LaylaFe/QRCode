@@ -3,10 +3,10 @@
 ## 📖 Ìndice
 
 - [Meu processo](#meu-processo)
-- [Recursos](#recursos)
-- [Aprendizado](#aprendizado)
+- [Recursos utilizados](#Recursos-utilizados)
+- [Aprendizado](#Aprendizado)
 - [Recursos úteis](#recursos-uteis)
-- [Autor](#autor)
+- [Autor](#Autor)
 
 # ⭐ Meu processo
 
